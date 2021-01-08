@@ -85,7 +85,6 @@ main{
       position:fixed;
       display: inline;
       justify-content: space-around;
-      flex-direction: row;
       height: auto;
     }
     main{
