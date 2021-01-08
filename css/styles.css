@@ -83,7 +83,8 @@ main{
     nav{
       width:100%;
       position:fixed;
-      display: inline;
+      display: flex;
+      flex-direction: row;
       justify-content: space-around;
       height: auto;
     }
