@@ -83,10 +83,12 @@ main{
     nav{
       width:100%;
       position:fixed;
-      display: inline;
-      flex-direction: row;
+      display: flex;
       justify-content: space-around;
       height: auto;
+    }
+    nav a{
+      padding:10px 20px;
     }
     main{
       width:100%;
