@@ -166,8 +166,9 @@ section:target h1 {
   position: absolute;
   justify-content: center;
   align-items: center;
+  text-align-last: center;
   text-align: center;
-  
+
 }
 .headers{
     text-shadow: 2px 2px 2px black;
