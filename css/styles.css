@@ -145,7 +145,7 @@ section h1 {
 }
 
 
-/* Styles applied on trigger */
+
 section:target {
     opacity: 1;
     position: absolute;
